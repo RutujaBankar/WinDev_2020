@@ -1,0 +1,2 @@
+E:\windev practice\WinDev_2020\01_IDE_Assignments\01_FirstWindow\01_BackgroundBrush\firstwindow\08_WhiteBrush\08_WhiteBrush\Debug\08_WhiteBrush.exe
+E:\windev practice\WinDev_2020\01_IDE_Assignments\01_FirstWindow\01_BackgroundBrush\firstwindow\08_WhiteBrush\08_WhiteBrush\Debug\08_WhiteBrush.pdb
