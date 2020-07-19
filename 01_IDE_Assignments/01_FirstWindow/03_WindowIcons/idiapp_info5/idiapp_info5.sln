@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "idiapp_info5", "idiapp_info5.vcxproj", "{D10B1A69-2FE1-4858-949C-2DABCC7DADCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10B1A69-2FE1-4858-949C-2DABCC7DADCB}.Debug|x64.ActiveCfg = Debug|x64
+		{D10B1A69-2FE1-4858-949C-2DABCC7DADCB}.Debug|x64.Build.0 = Debug|x64
+		{D10B1A69-2FE1-4858-949C-2DABCC7DADCB}.Debug|x86.ActiveCfg = Debug|Win32
+		{D10B1A69-2FE1-4858-949C-2DABCC7DADCB}.Debug|x86.Build.0 = Debug|Win32
+		{D10B1A69-2FE1-4858-949C-2DABCC7DADCB}.Release|x64.ActiveCfg = Release|x64
+		{D10B1A69-2FE1-4858-949C-2DABCC7DADCB}.Release|x64.Build.0 = Release|x64
+		{D10B1A69-2FE1-4858-949C-2DABCC7DADCB}.Release|x86.ActiveCfg = Release|Win32
+		{D10B1A69-2FE1-4858-949C-2DABCC7DADCB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BE5A51D-EE44-425A-8244-240D049F4C67}
+	EndGlobalSection
+EndGlobal

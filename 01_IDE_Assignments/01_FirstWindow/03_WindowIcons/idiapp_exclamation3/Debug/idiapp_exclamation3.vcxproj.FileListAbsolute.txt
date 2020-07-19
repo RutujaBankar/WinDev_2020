@@ -1,0 +1,2 @@
+E:\My_WinDev_2020\WinDev_temp\01_IDE_Assignments\01_FirstWindow\03_WindowIcons\idiapp_exclamation3\Debug\idiapp_exclamation3.exe
+E:\My_WinDev_2020\WinDev_temp\01_IDE_Assignments\01_FirstWindow\03_WindowIcons\idiapp_exclamation3\Debug\idiapp_exclamation3.pdb
